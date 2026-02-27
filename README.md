@@ -50,6 +50,31 @@
 - 实战案例分析
 - 效率提升度量
 
+## 🧭 专题学习导航（Prompt → RAG → Skill）
+
+如果你想按“可落地链路”系统学习，建议走这条路线：
+
+### 第一步：Prompt（先把任务描述清楚）
+- [00 - Prompt 是什么](./notes/prompt/00_overview.md)
+- [10 - 常用 Prompt 模式](./notes/prompt/10_prompt_patterns.md)
+- [20 - Prompt 评估方法](./notes/prompt/20_prompt_evaluation.md)
+
+### 第二步：RAG（让回答有依据）
+- [00 - RAG 概览](./notes/rag/00_overview.md)
+- [10 - Chunking 设计](./notes/rag/10_chunking.md)
+- [20 - 检索与重排](./notes/rag/20_retrieval_and_rerank.md)
+- [30 - 引用与 Grounding](./notes/rag/30_citations_and_grounding.md)
+- [40 - RAG 评测](./notes/rag/40_rag_evaluation.md)
+
+### 第三步：Skill/Tool（让 Agent 真正可执行）
+- [00 - Tool 与 RAG 如何配合](./notes/skills/00_overview.md)
+- [10 - Tool Schema 设计](./notes/skills/10_tool_schema_design.md)
+- [20 - 安全/权限/幂等/审计](./notes/skills/20_safety_permissions_idempotency.md)
+
+### 动手实践（最小可跑 Demo）
+- [离线 RAG 最小 Demo](./demos/rag_min/README.md)
+- 建议顺序：先构建索引，再运行查询，最后运行离线评测
+
 ## 🎯 学习建议
 
 ### 对于完全新手
@@ -129,6 +154,7 @@
 ## 📝 更新日志
 
 - 2024-02: 创建完整的学习目录结构
+- 2026-02: 补充 Prompt / RAG / Skill 专题教程与离线 RAG 最小 Demo
 - 持续更新中...
 
 ## ⚖️ 许可证

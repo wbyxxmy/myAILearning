@@ -1,0 +1,3 @@
+{"question":"什么是RAG？它的基本流程是什么？","expected_sources":["rag_intro.md"],"k":5}
+{"question":"Prompt 通常包含哪些组成部分？","expected_sources":["prompt_basics.md"],"k":5}
+{"question":"Tool/Skill 设计时需要注意什么？","expected_sources":["tools_basics.md"],"k":5}

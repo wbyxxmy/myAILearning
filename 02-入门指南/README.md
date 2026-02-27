@@ -2,6 +2,13 @@
 
 > 快速上手AI编程工具，开启高效开发之旅
 
+## 🧭 关联专题跳转
+
+- Prompt实操： [Prompt 教程 10](../notes/prompt/10_prompt_patterns.md)
+- Prompt评估： [Prompt 教程 20](../notes/prompt/20_prompt_evaluation.md)
+- RAG入门： [RAG 教程 00](../notes/rag/00_overview.md)
+- 动手实践： [离线 RAG 最小 Demo](../demos/rag_min/README.md)
+
 ## 📋 目录
 
 1. [工具安装与配置](#工具安装与配置)

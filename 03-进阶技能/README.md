@@ -2,6 +2,13 @@
 
 > 提升AI辅助开发效率，从会用到用好
 
+## 🧭 关联专题跳转
+
+- Prompt模式与评估： [Prompt 教程 10](../notes/prompt/10_prompt_patterns.md) ｜ [Prompt 教程 20](../notes/prompt/20_prompt_evaluation.md)
+- RAG检索基础： [RAG 教程 10](../notes/rag/10_chunking.md) ｜ [RAG 教程 20](../notes/rag/20_retrieval_and_rerank.md)
+- Skill Schema设计： [Skill/Tool 教程 10](../notes/skills/10_tool_schema_design.md)
+- 动手实践： [离线 RAG 最小 Demo](../demos/rag_min/README.md)
+
 ## 📋 目录
 
 1. [高效代码生成技巧](#高效代码生成技巧)

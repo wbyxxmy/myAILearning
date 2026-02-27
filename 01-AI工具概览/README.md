@@ -2,6 +2,13 @@
 
 > 了解主流AI编程工具，选择最适合你的工具
 
+## 🧭 关联专题跳转
+
+- Prompt基础： [Prompt 教程 00](../notes/prompt/00_overview.md)
+- RAG概览： [RAG 教程 00](../notes/rag/00_overview.md)
+- Skill/Tool概览： [Skill/Tool 教程 00](../notes/skills/00_overview.md)
+- 动手实践： [离线 RAG 最小 Demo](../demos/rag_min/README.md)
+
 ## 📋 目录
 
 1. [Cursor - AI原生代码编辑器](#cursor)

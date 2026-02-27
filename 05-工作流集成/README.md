@@ -2,6 +2,13 @@
 
 > 将AI无缝融入日常开发，打造高效团队
 
+## 🧭 关联专题跳转
+
+- Prompt工作流： [Prompt 教程 10](../notes/prompt/10_prompt_patterns.md) ｜ [Prompt 教程 20](../notes/prompt/20_prompt_evaluation.md)
+- RAG工作流： [RAG 教程 30](../notes/rag/30_citations_and_grounding.md) ｜ [RAG 教程 40](../notes/rag/40_rag_evaluation.md)
+- Skill治理： [Skill/Tool 教程 20](../notes/skills/20_safety_permissions_idempotency.md)
+- 动手实践： [离线 RAG 最小 Demo](../demos/rag_min/README.md)
+
 ## 📋 目录
 
 1. [个人开发工作流](#个人开发工作流)

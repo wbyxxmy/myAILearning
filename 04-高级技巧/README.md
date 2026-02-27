@@ -2,6 +2,13 @@
 
 > 深度应用AI进行复杂开发，突破效率天花板
 
+## 🧭 关联专题跳转
+
+- RAG进阶： [RAG 教程 20](../notes/rag/20_retrieval_and_rerank.md) ｜ [RAG 教程 30](../notes/rag/30_citations_and_grounding.md) ｜ [RAG 教程 40](../notes/rag/40_rag_evaluation.md)
+- Tool工程化： [Skill/Tool 教程 10](../notes/skills/10_tool_schema_design.md) ｜ [Skill/Tool 教程 20](../notes/skills/20_safety_permissions_idempotency.md)
+- Prompt质量控制： [Prompt 教程 20](../notes/prompt/20_prompt_evaluation.md)
+- 动手实践： [离线 RAG 最小 Demo](../demos/rag_min/README.md)
+
 ## 📋 目录
 
 1. [架构设计与AI](#架构设计与ai)
